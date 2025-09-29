@@ -100,7 +100,7 @@ My focus is on **designing scalable, fault-tolerant systems** while constantly i
 
 ## ⚡ Fun Animation
 <p align="center">
-  <img src="https://github.com/abhaytagad/abhaytagad/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="[https://github.com/abhaytagad/abhaytagad/blob/output/github-contribution-grid-snake.svg](https://github.com/abhaytagad/abhaytagad.git)" alt="snake animation" />
 </p>
 
 ---
